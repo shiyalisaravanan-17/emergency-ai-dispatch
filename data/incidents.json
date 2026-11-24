@@ -1,0 +1,107 @@
+[
+  {
+    "id": "INC001",
+    "type_hint": "missing_person",
+    "transcript": "My 7-year-old son was playing in Riverside Park about an hour ago and now I can't find him anywhere. He was wearing a red jacket and blue jeans. His name is Liam. He has never wandered off before. Please help!",
+    "location": {"lat": 40.7831, "lng": -73.9712, "description": "Riverside Park, Manhattan"},
+    "timestamp": "2026-11-24T14:32:00Z"
+  },
+  {
+    "id": "INC002",
+    "type_hint": "missing_person",
+    "transcript": "My mother is 80 years old and has dementia. She walked out of our house on Elm Street about 2 hours ago. She doesn't know her address and gets confused easily. She was in her nightgown. I'm very worried.",
+    "location": {"lat": 40.7580, "lng": -73.9855, "description": "Elm Street, Midtown"},
+    "timestamp": "2026-11-24T13:15:00Z"
+  },
+  {
+    "id": "INC003",
+    "type_hint": "missing_person",
+    "transcript": "My teenage daughter didn't come home from school today. She's 15. She was last seen at Jefferson High School at 3pm. She's not answering her phone. Her friends haven't seen her either. I think something is wrong.",
+    "location": {"lat": 40.7489, "lng": -73.9680, "description": "Jefferson High School, East Side"},
+    "timestamp": "2026-11-24T18:00:00Z"
+  },
+  {
+    "id": "INC004",
+    "type_hint": "missing_person",
+    "transcript": "A man just grabbed a woman off the street and forced her into a black van on 5th Avenue. She was screaming. The van drove north. I got a partial plate: KLM. This happened 3 minutes ago.",
+    "location": {"lat": 40.7549, "lng": -73.9840, "description": "5th Avenue and 45th Street"},
+    "timestamp": "2026-11-24T16:45:00Z"
+  },
+  {
+    "id": "INC005",
+    "type_hint": "missing_person",
+    "transcript": "My 6-year-old daughter with autism was at the community pool and disappeared. She's non-verbal and doesn't understand danger. She was last seen near the changing rooms. We've searched the entire facility. Please come now.",
+    "location": {"lat": 40.7614, "lng": -73.9776, "description": "Community Pool, West Side"},
+    "timestamp": "2026-11-24T15:20:00Z"
+  },
+  {
+    "id": "INC006",
+    "type_hint": "fire",
+    "transcript": "There's a fire in the kitchen of my apartment on Oak Avenue. The smoke alarm is going off. I've got my kids out but the fire is spreading to the living room. The building is 4 stories and I don't know if neighbors got out.",
+    "location": {"lat": 40.7282, "lng": -73.7949, "description": "Oak Avenue Apartments, Queens"},
+    "timestamp": "2026-11-24T17:10:00Z"
+  },
+  {
+    "id": "INC007",
+    "type_hint": "fire",
+    "transcript": "There's heavy smoke coming from the basement of the warehouse on Industrial Road. I can see flames through the window. The building looks empty but I'm not sure.",
+    "location": {"lat": 40.7127, "lng": -74.0059, "description": "Industrial Road Warehouse, Brooklyn"},
+    "timestamp": "2026-11-24T12:05:00Z"
+  },
+  {
+    "id": "INC008",
+    "type_hint": "medical",
+    "transcript": "My husband collapsed in the living room. He's 62 years old. He's breathing but won't wake up. He has a history of heart problems. Please send an ambulance right away.",
+    "location": {"lat": 40.7488, "lng": -73.9856, "description": "Park Avenue, Midtown"},
+    "timestamp": "2026-11-24T11:30:00Z"
+  },
+  {
+    "id": "INC009",
+    "type_hint": "medical",
+    "transcript": "A cyclist was hit by a car on Main Street. He's on the ground and his leg looks badly injured. He's conscious but in a lot of pain. The driver stopped and is with him.",
+    "location": {"lat": 40.7306, "lng": -73.9352, "description": "Main Street and 3rd Ave, Brooklyn"},
+    "timestamp": "2026-11-24T10:50:00Z"
+  },
+  {
+    "id": "INC010",
+    "type_hint": "medical",
+    "transcript": "My neighbor is having a severe allergic reaction. Her face is swelling and she's having trouble breathing. She used her EpiPen but it doesn't seem to be working. We need help immediately.",
+    "location": {"lat": 40.7614, "lng": -73.9776, "description": "Birchwood Apartments, Upper West Side"},
+    "timestamp": "2026-11-24T09:40:00Z"
+  },
+  {
+    "id": "INC011",
+    "type_hint": "crime",
+    "transcript": "There's a man breaking into the car parked outside my house on Cedar Lane. He's been there for about 5 minutes. He looks like he's trying to hotwire it. I don't think he's seen me watching.",
+    "location": {"lat": 40.7489, "lng": -73.9442, "description": "Cedar Lane, Ridgewood"},
+    "timestamp": "2026-11-24T08:20:00Z"
+  },
+  {
+    "id": "INC012",
+    "type_hint": "crime",
+    "transcript": "A man just robbed the convenience store on Broadway at gunpoint. He ran south on Broadway toward the subway. He was wearing a gray hoodie and black jeans. No one was hurt.",
+    "location": {"lat": 40.7794, "lng": -73.9632, "description": "Broadway and 96th Street"},
+    "timestamp": "2026-11-24T20:15:00Z"
+  },
+  {
+    "id": "INC013",
+    "type_hint": "accident",
+    "transcript": "There's a three-car pile-up on the highway. At least two people are trapped inside their vehicles. One car is leaking what looks like fuel. We need fire and medical units here urgently.",
+    "location": {"lat": 40.7282, "lng": -74.0776, "description": "I-78 Westbound near Exit 14"},
+    "timestamp": "2026-11-24T07:30:00Z"
+  },
+  {
+    "id": "INC014",
+    "type_hint": "missing_person",
+    "transcript": "My 10-year-old son went on a school hike in Prospect Park this morning and never came back with his group. The teacher says he was there at 10am but couldn't find him after lunch. It's getting dark now.",
+    "location": {"lat": 40.6602, "lng": -73.9690, "description": "Prospect Park, Brooklyn"},
+    "timestamp": "2026-11-24T17:45:00Z"
+  },
+  {
+    "id": "INC015",
+    "type_hint": "flood",
+    "transcript": "The basement of our building is completely flooded. The water is rising fast and two elderly residents are trapped on the ground floor. We can't reach them. The water is waist high.",
+    "location": {"lat": 40.6892, "lng": -74.0445, "description": "Harbor View Apartments, Staten Island"},
+    "timestamp": "2026-11-24T19:00:00Z"
+  }
+]

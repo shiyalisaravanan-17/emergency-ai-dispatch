@@ -1,0 +1,26 @@
+[
+  {"id": "POL001", "type": "police", "status": "available", "location": {"lat": 40.7831, "lng": -73.9700}, "capacity": 2, "unit_name": "Patrol Unit Alpha"},
+  {"id": "POL002", "type": "police", "status": "available", "location": {"lat": 40.7600, "lng": -73.9850}, "capacity": 2, "unit_name": "Patrol Unit Bravo"},
+  {"id": "POL003", "type": "police", "status": "busy",      "location": {"lat": 40.7489, "lng": -73.9680}, "capacity": 2, "unit_name": "Patrol Unit Charlie"},
+  {"id": "POL004", "type": "police", "status": "available", "location": {"lat": 40.7549, "lng": -73.9840}, "capacity": 2, "unit_name": "Patrol Unit Delta"},
+  {"id": "POL005", "type": "police", "status": "available", "location": {"lat": 40.6602, "lng": -73.9690}, "capacity": 2, "unit_name": "Patrol Unit Echo"},
+
+  {"id": "SAR001", "type": "search_rescue", "status": "available", "location": {"lat": 40.7831, "lng": -73.9710}, "capacity": 4, "unit_name": "Search & Rescue Team 1"},
+  {"id": "SAR002", "type": "search_rescue", "status": "available", "location": {"lat": 40.7580, "lng": -73.9855}, "capacity": 4, "unit_name": "Search & Rescue Team 2"},
+  {"id": "SAR003", "type": "search_rescue", "status": "busy",      "location": {"lat": 40.7614, "lng": -73.9776}, "capacity": 4, "unit_name": "Search & Rescue Team 3"},
+  {"id": "SAR004", "type": "search_rescue", "status": "busy",      "location": {"lat": 40.6602, "lng": -73.9690}, "capacity": 4, "unit_name": "Search & Rescue Team 4"},
+
+  {"id": "AMB001", "type": "ambulance", "status": "available", "location": {"lat": 40.7488, "lng": -73.9856}, "capacity": 2, "unit_name": "Ambulance 1"},
+  {"id": "AMB002", "type": "ambulance", "status": "available", "location": {"lat": 40.7306, "lng": -73.9352}, "capacity": 2, "unit_name": "Ambulance 2"},
+  {"id": "AMB003", "type": "ambulance", "status": "busy",      "location": {"lat": 40.7614, "lng": -73.9776}, "capacity": 2, "unit_name": "Ambulance 3"},
+  {"id": "AMB004", "type": "ambulance", "status": "available", "location": {"lat": 40.7282, "lng": -73.7949}, "capacity": 2, "unit_name": "Ambulance 4"},
+  {"id": "AMB005", "type": "ambulance", "status": "available", "location": {"lat": 40.6892, "lng": -74.0445}, "capacity": 2, "unit_name": "Ambulance 5"},
+
+  {"id": "FIR001", "type": "fire_truck", "status": "available", "location": {"lat": 40.7282, "lng": -73.7949}, "capacity": 5, "unit_name": "Fire Engine 1"},
+  {"id": "FIR002", "type": "fire_truck", "status": "available", "location": {"lat": 40.7127, "lng": -74.0059}, "capacity": 5, "unit_name": "Fire Engine 2"},
+  {"id": "FIR003", "type": "fire_truck", "status": "busy",      "location": {"lat": 40.7282, "lng": -74.0776}, "capacity": 5, "unit_name": "Fire Engine 3"},
+  {"id": "FIR004", "type": "fire_truck", "status": "available", "location": {"lat": 40.6892, "lng": -74.0445}, "capacity": 5, "unit_name": "Fire Engine 4"},
+
+  {"id": "HAZ001", "type": "hazmat",     "status": "available", "location": {"lat": 40.7282, "lng": -74.0776}, "capacity": 3, "unit_name": "Hazmat Unit 1"},
+  {"id": "HAZ002", "type": "hazmat",     "status": "busy",      "location": {"lat": 40.7127, "lng": -74.0059}, "capacity": 3, "unit_name": "Hazmat Unit 2"}
+]

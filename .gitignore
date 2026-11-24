@@ -1,0 +1,20 @@
+# Secret credentials — never commit this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs (optional — remove this line if you want logs tracked)
+logs/*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
